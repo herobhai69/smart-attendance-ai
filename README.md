@@ -30,7 +30,7 @@ SMART Attendance AI is a facial recognition-based system that accurately detects
   - `haarcascade_frontalface_default.xml`: Pre-trained face detection model.
   - `faces_data.pkl`: Encoded face data.
   - `names.pkl`: Registered user names.
-- **Attendance/**: Stores attendance logs in `.csv` format.
+- **Attendance/**: Stores attendance logs in `DD-MM-YYYY.csv` format.
 - **poetry.lock / pyproject.toml / .venv**: Dependency and environment management files.
 
 ---
