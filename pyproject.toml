@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "heroproject"
+version = "0.1.0"
+description = "Made by HEROS"
+authors = ["Hero"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+opencv-python = "^4.10.0.84"
+scikit-learn = "^1.6.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
